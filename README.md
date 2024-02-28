@@ -7,14 +7,6 @@
 
 上手方便、可跨平台
 
-#### 前置准备：利用模拟器获取小程序包
-
-参考博主的原创文章  
-> [以中银E路通小程序为例10分钟带你学会微信小程序的反编译](http://xuedingmiao.com/blog/xcx_unpack.html)
-
-#### 逆向教程小程序
-<img src="http://cdn.xuedingmiao.com/nxjc.jpg" alt="逆向教程" height="185" />  
-
 #### 运行截图  
 
 Mac  
